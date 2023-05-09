@@ -1,0 +1,10 @@
+.rodape {
+  background-color: rgb(66, 66, 66);
+}
+.afooter {
+  color: whitesmoke;
+  text-decoration: none;
+}
+.afooter:hover {
+  color: red;
+}

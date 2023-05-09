@@ -1,0 +1,40 @@
+.main_main {
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  margin-top: 101px;
+}
+.h1titulo {
+  color: black;
+}
+.imgcorleone {
+  margin-right: 80px;
+}
+.caixatexto {
+  padding-left: 40px;
+}
+.textocss {
+  padding-left: 20px;
+}
+.h21 {
+  color: black;
+  font-size: 18px;
+  padding: 20px;
+}
+.h22 {
+  color: black;
+  font-size: 16px;
+  padding: 20px;
+  text-decoration: none;
+}
+.sumario {
+  background-color: whitesmoke;
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 10px 10px;
+}
+.sumario1 {
+  background-color: silver;
+  margin-left: 70px;
+  margin-right: 70px;
+}

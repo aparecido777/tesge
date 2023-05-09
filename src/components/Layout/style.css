@@ -1,0 +1,29 @@
+.grid {
+  display: grid;
+
+  grid-template-columns: 180px 1fr;
+  /* grid-template-rows: auto; */
+  grid-template-areas:
+    "gheader gheader"
+    "gsidebar gmain";
+}
+
+.gsidebar {
+  grid-area: gsidebar;
+  /* background-color: red; */
+}
+
+.gheader {
+  grid-area: gheader;
+}
+
+.gmain {
+  grid-area: gmain;
+
+  /* background-color: blue; */
+  /* width: 100%; */
+}
+
+h2 {
+  color: black;
+}

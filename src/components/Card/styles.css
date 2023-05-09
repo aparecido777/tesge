@@ -1,0 +1,57 @@
+.center {
+  align-items: center;
+  display: flex;
+}
+.ta {
+  background-color: rgb(6, 22, 1);
+  color: rgb(250, 250, 250);
+}
+.tk {
+  background-color: rgb(6, 22, 1);
+  color: rgb(250, 250, 250);
+  width: 50%;
+  text-align: center;
+}
+.tm {
+  background-color: rgb(6, 22, 1);
+  color: rgb(250, 250, 250);
+  width: 50%;
+  text-align: center;
+}
+.gi {
+  margin: auto;
+  width: 80%;
+  margin: auto;
+  color: wheat;
+  gap: 10px;
+  align-items: center;
+  height: center;
+  left: 30px;
+  margin: center;
+}
+.t1 {
+  width: 50%;
+}
+.t2 {
+  width: 50%;
+}
+.vd {
+  text-align: center;
+  left: 1500px;
+  height: 550px;
+}
+.jk {
+  width: 100%;
+}
+
+.text-muted {
+  color: white;
+}
+
+.cardgroup1 {
+  padding: 5px;
+}
+.card1 {
+  background-color: #f4f5f6;
+  margin-right: 6px;
+}
